@@ -1,2 +1,4 @@
 # learn-hubspot
-This repository is for HubSpot training
+
+1 What is HubSpot
+    - https://www.hubspot.com/
