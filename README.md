@@ -63,5 +63,11 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
     <h4>A quick Tour to HubSpot CMS: A Comprehensive Guide</h4>
     <p>https://www.webdew.com/blog/hubspot-cms?srsltid=AfmBOoosCw2Lcy88_eUZ5gXzplbj7AtD3E9ekdoKADxPX2Ig3OQMr5qu</p>
   </li>
+
+
+  <li>
+    <h4>Latest CMS Developer Posts</h4>
+    <p>https://designers.hubspot.com/blog/topic/website-development</p>
+  </li>
   
 </ul>
