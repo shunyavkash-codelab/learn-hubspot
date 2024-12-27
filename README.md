@@ -57,12 +57,18 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
 
   <li>
     <h4>How to Create Form In HubSpot</h4>
-    <p>https://knowledge.hubspot.com/forms/create-forms</p>
+     <p>https://knowledge.hubspot.com/forms/create-forms</p>
+     <p>we are design form to css but hubspot form has particular class like ex : .hs-field | .hs-input | .input many other su can check this website form in inspect  </p>
+     <span>https://deeps-account-45081573.hubspotpagebuilder.com/home</span>
+     <p><strong>Richtext Information:</strong> https://knowledge.hubspot.com/website-pages/edit-content-in-a-rich-text-module</p>
+    
   </li>
 
   <li>
     <h4>Module and theme fields</h4>
     <p>https://developers.hubspot.com/docs/reference/cms/fields/module-theme-fields</p>
+     <strong>Make Sure You Proper Understand A Richtext Field</strong>
+     
   </li>
 
   <li>
