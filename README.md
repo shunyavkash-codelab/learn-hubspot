@@ -47,6 +47,12 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
   <li>
     <h4>Template Overview</h4>
     <p>https://developers.hubspot.com/docs/guides/cms/content/templates/overview</p>
+       <ol>
+            <li>
+              <h5>Blog templates</h5>
+              <p>https://developers.hubspot.com/docs/guides/cms/content/templates/types/blog</p>
+            </li>
+       </ol>
   </li>
 
   <li>
