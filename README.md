@@ -1,10 +1,3 @@
-<ul>
-<p>You Start In HubSpot so First you need to untented what is template and way is advance to the html her some refrance you can check</p>
- <li>
-   <h3>Nunjucks</h3>
-   <p>https://mozilla.github.io/nunjucks/templating.html</p>
- </li>
-</ul> 
 
 # learn-hubspot
 
