@@ -17,6 +17,14 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
     <p>https://developers.hubspot.com/docs/reference/cms/hubl/overview#hubl-syntax-overview</p>
     <h4>HubL Functions, Filters, Variables HubSpot Documentation Reference</h4>
     https://bootstrapcreative.com/resources/hubspot-hubl-docs-cheat-sheet/
+    <h4>Hubl Filter</h4> 
+    <p>https://developers.hubspot.com/docs/reference/cms/hubl/filters</p>
+    <h4>Hubl Funcation</h4> 
+    <p>https://developers.hubspot.com/docs/reference/cms/hubl/functions</p>
+    <h4>Hubl Variables</h4> 
+    <p>https://developers.hubspot.com/docs/reference/cms/hubl/variables</p>
+    <h4>HubL standard tags</h4> 
+    <p>https://developers.hubspot.com/docs/reference/cms/hubl/tags/standard-tags</p>
   </li>
 
   <li>
