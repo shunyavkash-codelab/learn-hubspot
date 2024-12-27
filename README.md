@@ -15,16 +15,28 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
   <li>
     <h4>HubL syntax overview</h4>
     <p>https://developers.hubspot.com/docs/reference/cms/hubl/overview#hubl-syntax-overview</p>
-    <h5>HubL Functions, Filters, Variables HubSpot Documentation Reference</h5>
-    https://bootstrapcreative.com/resources/hubspot-hubl-docs-cheat-sheet/
-    <h5>Hubl Filter</h5> 
-    <p>https://developers.hubspot.com/docs/reference/cms/hubl/filters</p>
-    <h5>Hubl Funcation</h5> 
-    <p>https://developers.hubspot.com/docs/reference/cms/hubl/functions</p>
-    <h5>Hubl Variables</h5> 
-    <p>https://developers.hubspot.com/docs/reference/cms/hubl/variables</p>
-    <h5>HubL standard tags</h5> 
-    <p>https://developers.hubspot.com/docs/reference/cms/hubl/tags/standard-tags</p>
+      <ol>
+        <li>
+            <h5>HubL Functions, Filters, Variables HubSpot Documentation Reference</h5>
+            https://bootstrapcreative.com/resources/hubspot-hubl-docs-cheat-sheet/          
+        </li>
+        <li>
+            <h5>Hubl Filter</h5> 
+            <p>https://developers.hubspot.com/docs/reference/cms/hubl/filters</p>
+        </li>
+        <li>
+            <h5>Hubl Funcation</h5> 
+            <p>https://developers.hubspot.com/docs/reference/cms/hubl/functions</p>
+        </li>
+        <li>
+          <h5>Hubl Variables</h5> 
+          <p>https://developers.hubspot.com/docs/reference/cms/hubl/variables</p>
+        </li>
+        <li>
+          <h5>HubL standard tags</h5> 
+          <p>https://developers.hubspot.com/docs/reference/cms/hubl/tags/standard-tags</p>
+        </li>
+     </ol>
   </li>
 
   <li>
