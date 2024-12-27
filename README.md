@@ -11,6 +11,23 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
     <h4>HubSpot CMS Overview</h4>
     <p>https://developers.hubspot.com/docs/guides/cms/overview</p>
   </li>
+
+  <li>
+    <h4>Modules Overview</h4>
+    <p>https://developers.hubspot.com/docs/guides/cms/content/modules/overview</p>    
+  </li>
+
   
-  <li>https://developers.hubspot.com/docs/guides/cms/overview</li>
+  <li>
+    <h4>Template Overview</h4>
+    <p>https://developers.hubspot.com/docs/guides/cms/content/templates/overview</p>
+  </li>
+
+  <li>
+    <h4>Drag and Drop areas overview</h4>
+    <p>https://developers.hubspot.com/docs/guides/cms/content/templates/drag-and-drop/overview</p>
+  </li>
+  
+
+  
 </ul>
