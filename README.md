@@ -56,6 +56,11 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
   </li>
 
   <li>
+    <h4>How to Create Form In HubSpot</h4>
+    <p>https://knowledge.hubspot.com/forms/create-forms</p>
+  </li>
+
+  <li>
     <h4>Module and theme fields</h4>
     <p>https://developers.hubspot.com/docs/reference/cms/fields/module-theme-fields</p>
   </li>
