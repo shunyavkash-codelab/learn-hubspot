@@ -30,7 +30,7 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
   
   <li>
     <h4>HubL syntax overview</h4>
-    <p>https://developers.hubspot.com/docs/reference/cms/hubl/overview#hubl-syntax-overview</p><br><br>
+    <p>https://developers.hubspot.com/docs/reference/cms/hubl/overview#hubl-syntax-overview</p><br>
     <h4>HubL Functions, Filters, Variables HubSpot Documentation Reference</h4>
     https://bootstrapcreative.com/resources/hubspot-hubl-docs-cheat-sheet/
   </li>
