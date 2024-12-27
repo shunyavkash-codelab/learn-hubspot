@@ -43,11 +43,15 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
     <h4>Modules Overview</h4>
     <p>https://developers.hubspot.com/docs/guides/cms/content/modules/overview</p>    
   </li>
-
   
   <li>
     <h4>Template Overview</h4>
     <p>https://developers.hubspot.com/docs/guides/cms/content/templates/overview</p>
+  </li>
+
+  <li>
+    <h4>Module and theme fields</h4>
+    <p>https://developers.hubspot.com/docs/reference/cms/fields/module-theme-fields</p>
   </li>
 
   <li>
