@@ -35,4 +35,9 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
     https://bootstrapcreative.com/resources/hubspot-hubl-docs-cheat-sheet/
   </li>
   
+  <li>
+    <h4>A quick Tour to HubSpot CMS: A Comprehensive Guide</h4>
+    <p>https://www.webdew.com/blog/hubspot-cms?srsltid=AfmBOoosCw2Lcy88_eUZ5gXzplbj7AtD3E9ekdoKADxPX2Ig3OQMr5qu</p>
+  </li>
+  
 </ul>
