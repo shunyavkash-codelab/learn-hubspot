@@ -86,4 +86,12 @@ What is HubSpot and way we used HubSpot : https://www.hubspot.com/
     <p>https://designers.hubspot.com/blog/topic/website-development</p>
   </li>
   
+
+
+ <li>
+   <h4>You Complate The Doc then you can move to advance so this is HubSpot Academy Refrance</h4>
+   <p>https://academy.hubspot.com/</p>
+  
+</li>
+
 </ul>
