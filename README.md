@@ -1,13 +1,12 @@
-# learn-hubspot
-
- <p>You Start In HubSpot so First you need to untented what is template and way is advance to the html her some refrance you can check</p>
-
+<ul>
+<p>You Start In HubSpot so First you need to untented what is template and way is advance to the html her some refrance you can check</p>
  <li>
    <h3>Munjucks</h3>
    <p>https://mozilla.github.io/nunjucks/templating.html</p>
  </li>
+</ul> 
 
-
+# learn-hubspot
 
 What is HubSpot and way we used HubSpot : https://www.hubspot.com/
 
